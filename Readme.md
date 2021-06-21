@@ -11,8 +11,8 @@ This repository contains a restapi application based on python 3.
 
 In order to use this application:
 
-    git clone
-    cd <repository file>
+    git clone https://github.com/evya123/Elementor.git
+    cd Elementor
     chmod +x run.sh
     ./run.sh
 
