@@ -23,7 +23,7 @@ To change the port, you need to edit run.sh - change port flag -p to <new_port>:
 #### Get all characters:
 With postman simply query using get with url:
 
-    http://localhost:5010/characters
+    http://localhost:5000/characters
 Using python script:
 
     import requests
